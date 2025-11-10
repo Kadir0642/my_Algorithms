@@ -1,7 +1,7 @@
 import time
 import random
 
-arr=[10,20,35,40,50,60,65]
+arr=[10,65,60,40,50,35,20]
 n=len(arr)
 target=90
 

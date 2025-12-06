@@ -31,7 +31,7 @@ def two_pointer(arr,target):
     return False
 
 new_arr=[random.randint(1,1000) for _ in range(10000)]
-target=5000  # en kötü seneryoyu düşünürsek asıl performans farklarını bulabiliriz
+target=5000  # en kötü senaryoyu düşünürsek asıl performans farklarını bulabiliriz
 
 start=time.time()
 brute_force_solution(new_arr,target)

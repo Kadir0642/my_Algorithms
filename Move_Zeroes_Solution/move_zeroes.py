@@ -5,7 +5,7 @@ print(arr)
 print("Before: ")
 print("-"*50)
 def func(arr):
-    
+     
     n=len(arr)
     
     non_zero_position=0 # pointer for non-zeros 
